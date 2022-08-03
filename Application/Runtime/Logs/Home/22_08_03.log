@@ -1,0 +1,39 @@
+[ 2022-08-03T14:27:07+08:00 ] 127.0.0.1 /home/index/hello?id=thinkphp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+NOTIC: [2] array_merge(): Argument #2 is not an array E:\wokerman.com\ThinkPHP\Library\Think\Hook.class.php 第 63 行.
+NOTIC: [2] array_merge(): Argument #2 is not an array E:\wokerman.com\ThinkPHP\Library\Think\Hook.class.php 第 63 行.
+NOTIC: [2] array_merge(): Argument #2 is not an array E:\wokerman.com\ThinkPHP\Library\Think\Hook.class.php 第 63 行.
+NOTIC: [2] array_merge(): Argument #2 is not an array E:\wokerman.com\ThinkPHP\Library\Think\Hook.class.php 第 63 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+
+[ 2022-08-03T14:40:30+08:00 ] 127.0.0.1 /home/index/test/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+NOTIC: [2] array_merge(): Argument #2 is not an array E:\wokerman.com\ThinkPHP\Library\Think\Hook.class.php 第 63 行.
+NOTIC: [2] array_merge(): Argument #2 is not an array E:\wokerman.com\ThinkPHP\Library\Think\Hook.class.php 第 63 行.
+NOTIC: [2] array_merge(): Argument #2 is not an array E:\wokerman.com\ThinkPHP\Library\Think\Hook.class.php 第 63 行.
+NOTIC: [2] array_merge(): Argument #2 is not an array E:\wokerman.com\ThinkPHP\Library\Think\Hook.class.php 第 63 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001213s ]
+
+[ 2022-08-03T14:41:26+08:00 ] 127.0.0.1 /home/index/localFunName/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+NOTIC: [2] array_merge(): Argument #2 is not an array E:\wokerman.com\ThinkPHP\Library\Think\Hook.class.php 第 63 行.
+NOTIC: [2] array_merge(): Argument #2 is not an array E:\wokerman.com\ThinkPHP\Library\Think\Hook.class.php 第 63 行.
+NOTIC: [2] array_merge(): Argument #2 is not an array E:\wokerman.com\ThinkPHP\Library\Think\Hook.class.php 第 63 行.
+NOTIC: [2] array_merge(): Argument #2 is not an array E:\wokerman.com\ThinkPHP\Library\Think\Hook.class.php 第 63 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000991s ]
+

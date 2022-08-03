@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<link href="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/5.2.0/css/bootstrap.css" rel="stylesheet">
+<script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.js"></script>
+<script src="https://cdn.bootcdn.net/ajax/libs/jqueryui/1.13.2/jquery-ui.js"></script>
+<link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/6.1.2/css/all.css" rel="stylesheet">
+<script src="https://cdn.bootcdn.net/ajax/libs/react/18.2.0/cjs/react-jsx-dev-runtime.development.js"></script>
+
+<Style type="text/css">
+    .main{
+        max-width: 640px;
+        margin: 10px auto;
+        border: 1px #9e9e9e double;
+        border-radius: 10px;
+        padding: 10px;
+
+    }
+</Style>
+
+<div class="main">
+    <div>
+        切换语言：
+        <a href="?l=zh-cn">简体中文</a> |
+        <a href="?l=zh-tw">繁体中文</a> |
+        <a href="?l=en-us">英文</a>
+    </div>
+    <div class="result">{$Think.lang.welcome}</div>
+    <div class="result">{$Think.lang.message}</div>
+    <div class="result">{:L("message")}</div>
+</div>
+
+</body>
+</html>
